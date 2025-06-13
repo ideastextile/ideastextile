@@ -1,3 +1,17 @@
+✨ Welcome heading
+
+🧑‍💼 About Me
+
+💼 Skills
+
+📂 Top Projects (with live links + GitHub repo)
+
+🌐 Website/Portfolio link
+
+📬 Contact: Email / LinkedIn / WhatsApp / etc.
+
+📊 GitHub stats / streaks (images)
+
 ## Hi there 👋
 
 <!--
