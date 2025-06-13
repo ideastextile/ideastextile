@@ -1,36 +1,58 @@
-<h1 align="center">Hi 👋, I'm Ideas Textile</h1>
-<h3 align="center">A passionate full-stack developer from Pakistan</h3>
+<h1 align="center">👋 Hi, I'm Waryam</h1>
+<h3 align="center">Full‑Stack Developer | React.js & Django Enthusiast</h3>
 
-- 🔭 I’m currently working on **School Management System (React + Django)**  
-- 🌱 I’m learning **3D Web Design, Next.js, and Backend Optimization**  
-- 👯 I’m looking to collaborate on **React/Django Projects**  
-- 💬 Ask me about **React, Django, REST API, TailwindCSS**  
-- 📫 How to reach me: **ideastextile@example.com**  
-- 📄 My Portfolio: [My Website](https://your-portfolio-link.com)
-
----
-
-### 🛠️ Languages & Tools:
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+<p align="center">
+  <a href="https://waryam.site" target="_blank">
+    <strong>Visit my website »</strong>
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ideastextile&show_icons=true&theme=radical)
+---
 
-<!--
-**ideastextile/ideastextile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💫 About Me
 
-Here are some ideas to get you started:
+I craft full‑stack web applications with **React.js**, **Django**, and **TailwindCSS**. I love turning ideas into real, responsive, and user-friendly products. Currently focused on designing sleek dashboards and interactive web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills
+
+- **Frontend**: React.js, Redux, Tailwind CSS, Bootstrap, HTML5, CSS3, JavaScript (ES6+), jQuery  
+- **Backend**: Django, Django REST Framework, PostgreSQL, REST APIs  
+- **Tools**: Git, GitHub, Docker, Nginx, Linux, AWS  
+
+---
+
+### 🔭 Featured Projects
+
+| Project                                  | Description                                               | Live Demo    | Repo                                                                                                   |
+| ---------------------------------------- | --------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------ |
+| **School Management App**                | React frontend + Django backend dashboard for schools     | –            | [View Repo](https://github.com/ideastextile/school-management)                                         |
+| **Car Parking Management App**           | React frontend + Django backend dashboard for Car Parking | –            | [View Repo](https://github.com/ideastextile/Car)                                                       |
+| **[Your Website](https://waryam.site/)** | My personal portfolio and services showcase               | Live on site | [Visit Site](https://waryam.site/)                                                                    |
+
+---
+
+### 📫 Get in Touch
+
+- 📧 Email: freewap110@gmail.com  
+- 🌐 Website: [waryam.site](https://waryam.site)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ideastextile&show_icons=true&theme=radical" alt="Waryam's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ideastextile&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+![Waryam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ideastextile&show_icons=true&theme=radical)
